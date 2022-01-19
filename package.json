@@ -1,0 +1,21 @@
+{
+  "name": "electron-darkmode",
+  "version": "1.0.0",
+  "description": "Electron Dark mode practice!",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i33W/electron-darkmode.git"
+  },
+  "author": "hwang bomee <hwangbomee@kakao.com>",
+  "bugs": {
+    "url": "https://github.com/i33W/electron-darkmode/issues"
+  },
+  "homepage": "https://github.com/i33W/electron-darkmode#readme",
+  "devDependencies": {
+    "electron": "^16.0.7"
+  }
+}
