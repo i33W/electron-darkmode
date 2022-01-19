@@ -1,7 +1,7 @@
 document
   .getElementById("toggle-dark-mode")
-  .addEventListener("click", () => alert("Toggle Button Click!"));
+  .addEventListener("click", () => window.methodToggle());
 
 document
   .getElementById("reset-to-system")
-  .addEventListener("click", () => alert("System Button Click!"));
+  .addEventListener("click", () => window.methodSystem());
